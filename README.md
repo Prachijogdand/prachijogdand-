@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Prachi Jogdand</h1>
 
 <h3 align="center">
-Aspiring Network Engineer | Cybersecurity Enthusiast | AI & ML Student
+Network Engineering Enthusiast | Cybersecurity Aspirant | AI & ML Graduate
 </h3>
 
 ---
 
 # 👩‍💻 About Me
 
-🎓 Final Year BE Student in Artificial Intelligence & Machine Learning.
+🎓 BE Graduate in Computer Science & Engineering (Artificial Intelligence & Machine Learning).
 
-🌐 Passionate about Networking, Routing & Switching, and Cybersecurity.
+🌐 Passionate about Computer Networks, Routing & Switching, and Cybersecurity.
 
-🔐 Currently building hands-on networking projects using Cisco Packet Tracer while preparing for a career in Networking and Cybersecurity.
+🔐 Currently building hands-on CCNA labs using Cisco Packet Tracer to strengthen practical networking skills.
 
-💻 I enjoy designing network topologies, configuring Cisco devices, troubleshooting connectivity issues, and continuously learning new technologies.
+💻 I enjoy configuring Cisco devices, troubleshooting network issues, and documenting real-world networking projects on GitHub.
 
-🎯 Seeking Internship opportunities in Networking, Cybersecurity, or Network Support.
+🚀 Actively seeking internship and entry-level opportunities in Networking, Network Support, and Cybersecurity.
 
 ---
 
@@ -26,13 +26,13 @@ Aspiring Network Engineer | Cybersecurity Enthusiast | AI & ML Student
 
 A collection of practical networking labs built using Cisco Packet Tracer.
 
-### Completed
+### ✅ Completed Labs
 
-- ✅ Small Office Network
-- ✅ VLAN Configuration
-- ✅ Inter-VLAN Routing (Router-on-a-Stick)
+- Small Office Network
+- VLAN Configuration
+- Inter-VLAN Routing (Router-on-a-Stick)
 
-### Coming Soon
+### 🔜 Upcoming Labs
 
 - Static Routing
 - RIP
@@ -45,19 +45,19 @@ A collection of practical networking labs built using Cisco Packet Tracer.
 - Enterprise Network
 
 🔗 Repository:
-https://github.com/Prachijogand/CCNA-Labs
+https://github.com/Prachijogdand/CCNA-Labs
 
 ---
 
 ## 💬 Cyra – Secure Messaging Application
 
-Flutter-based secure messaging application focused on secure communication and modern security concepts.
+Secure messaging application developed using Flutter, implementing modern communication and security concepts.
 
 ---
 
 ## 🤖 Healthcare Predictive Analytics
 
-Machine Learning application for disease prediction using AI techniques.
+Machine Learning project for disease prediction using AI techniques.
 
 ---
 
@@ -65,13 +65,14 @@ Machine Learning application for disease prediction using AI techniques.
 
 - CCNA Networking
 - Routing & Switching
-- Network Security
 - Cisco IOS CLI
+- Network Troubleshooting
 - Cybersecurity Fundamentals
 
-### Next Learning Goals
+### 📖 Next Learning Goals
 
 - Static Routing
+- RIP
 - OSPF
 - ACL
 - NAT
@@ -85,35 +86,27 @@ Machine Learning application for disease prediction using AI techniques.
 
 # 💻 Tech Stack
 
-## Programming
+## Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
-
 ## Networking
 
 ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
-
----
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge)
 
 ## Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
----
-
 ## Frameworks & Tools
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge)
-
----
 
 ## AI & Machine Learning
 
@@ -141,4 +134,4 @@ Machine Learning application for disease prediction using AI techniques.
 
 ---
 
-⭐ *Learning by building, troubleshooting, and improving one network at a time.*
+⭐ *"Learning by building, troubleshooting, and improving one network at a time."*
